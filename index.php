@@ -3,7 +3,6 @@
 <title>LW India</title>
 </head>
 <body>
-  <h1>Web page</h1>
-<img src=""https://task1-anish-bucket.s3.ap-south-1.amazonaws.com/practical.jpg"" width="800" height="550" style=" margin:10px 250px">
+  <h1>This web page is created by terraform</h1>
 </body>
 </html>
